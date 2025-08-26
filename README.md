@@ -1,7 +1,7 @@
 # Introduction 
 This is a basic english helper agent built with openaisdk and chainlit(for interactive UI). Its purpose is to assist the user with questions related to the English language. It can also assist with grammar, vocabulary, writing, and other English-related queries.
 
-### Example poem
+## Example poem
 Here is a sample poem written with its use.
 
 Her world is painted in a softer hue,
@@ -37,3 +37,4 @@ For in her eyes, a tender glow resides,
 A testament to where her spirit rides.
 A girl in love, with wonder in her gaze,
 Lost in the beauty of these sunlit days.
+
