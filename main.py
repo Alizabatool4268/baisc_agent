@@ -23,11 +23,11 @@ english_agent= Agent(
     model= MODEL,
     instructions="You are a helpful agent which will help users related to there english. dont answer questions if they are not related to english."
 )
-prompt = input("enter your query: ")
+
 set_tracing_disabled(True)
 result = Runner.run_sync(
     starting_agent= english_agent,
-    input= prompt
+    input = ""
 )
 
 print(result.final_output)
